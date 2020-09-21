@@ -1,0 +1,17 @@
+D:\develope\temp\bin\Debug\netcoreapp3.1\temp.exe
+D:\develope\temp\bin\Debug\netcoreapp3.1\temp.deps.json
+D:\develope\temp\bin\Debug\netcoreapp3.1\temp.runtimeconfig.json
+D:\develope\temp\bin\Debug\netcoreapp3.1\temp.runtimeconfig.dev.json
+D:\develope\temp\bin\Debug\netcoreapp3.1\temp.dll
+D:\develope\temp\bin\Debug\netcoreapp3.1\temp.pdb
+D:\develope\temp\obj\Debug\netcoreapp3.1\temp.csprojAssemblyReference.cache
+D:\develope\temp\obj\Debug\netcoreapp3.1\temp.AssemblyInfoInputs.cache
+D:\develope\temp\obj\Debug\netcoreapp3.1\temp.AssemblyInfo.cs
+D:\develope\temp\obj\Debug\netcoreapp3.1\temp.csproj.CoreCompileInputs.cache
+D:\develope\temp\obj\Debug\netcoreapp3.1\temp.dll
+D:\develope\temp\obj\Debug\netcoreapp3.1\temp.pdb
+D:\develope\temp\obj\Debug\netcoreapp3.1\temp.genruntimeconfig.cache
+D:\develope\temp\bin\Debug\netcoreapp3.1\Crc32.NET.dll
+D:\develope\temp\bin\Debug\netcoreapp3.1\SocketMsgProto.dll
+D:\develope\temp\bin\Debug\netcoreapp3.1\SocketMsgProto.pdb
+D:\develope\temp\obj\Debug\netcoreapp3.1\temp.csproj.CopyComplete
